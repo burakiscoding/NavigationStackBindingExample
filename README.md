@@ -42,7 +42,7 @@ extension View {
 ```
 
 ### Users Page
-![EaseIn](Image_Previews/Users.png)
+<img src="Image_Previews/Users.png" width="300" alt="Users Page" />
 
 ### User Detail Page
-![EaseIn](Image_Previews/UserDetail.png)
+<img src="Image_Previews/UserDetail.png" width="300" alt="User Detail Page" />
